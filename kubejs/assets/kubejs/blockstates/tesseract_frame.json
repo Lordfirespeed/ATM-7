@@ -1,7 +1,7 @@
 {
   "variants": {
     "": {
-      "model": "kubejs:block/tesseract_frame"
+      "model": "tesseract:block/off"
     }
   }
 }
